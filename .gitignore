@@ -1,0 +1,4 @@
+dist/
+__pycache__/
+*.sprite.png
+*.preview.png
